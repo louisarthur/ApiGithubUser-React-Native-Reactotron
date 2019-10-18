@@ -1,0 +1,47 @@
+dependencies: \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/node_modules/react-native/Libraries/NativeAnimation/RCTNativeAnimatedNodesManager.m \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Target\ Support\ Files/React-RCTAnimation/React-RCTAnimation-prefix.pch \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTNativeAnimatedNodesManager.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTAdditionAnimatedNode.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTValueAnimatedNode.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTAnimatedNode.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTAnimationDriver.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTDiffClampAnimatedNode.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTDivisionAnimatedNode.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTEventAnimation.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTFrameAnimation.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTDecayAnimation.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTInterpolationAnimatedNode.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTModuloAnimatedNode.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTMultiplicationAnimatedNode.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTPropsAnimatedNode.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTSpringAnimation.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTStyleAnimatedNode.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTSubtractionAnimatedNode.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTTransformAnimatedNode.h \
+  /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ios/Pods/Headers/Public/React-Core/React/RCTTrackingAnimatedNode.h
