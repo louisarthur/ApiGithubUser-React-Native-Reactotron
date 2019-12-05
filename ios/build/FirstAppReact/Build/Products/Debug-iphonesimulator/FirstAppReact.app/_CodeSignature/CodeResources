@@ -10,7 +10,7 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		NKldsiNrFMTqDbJF87cnpE7S0K4=
+		bYBLq6M9T59TQyfUSEmiaw3U5sQ=
 		</data>
 		<key>Entypo.ttf</key>
 		<data>
@@ -48,9 +48,38 @@
 		<data>
 		SyvObHkkk6SlcWtv7C2+/olJLD8=
 		</data>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<data>
+		DQ4GPJ7FuM6H+FaCC/2wxhPSGCQ=
+		</data>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<data>
+		HK6asLJ70IK7E4e83e8R1gxACHo=
+		</data>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<data>
+		/8LQToTPOL9FsEsYDaACQ21Day0=
+		</data>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<data>
+		P6P66kW7+LvLIo4WHjXGltpT8CA=
+		</data>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<data>
+		xKX69bDGMJa2TcU/BC9ypZ06rsI=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		dkd4I8yIanqBzTJIHW4DVwX4IxU=
+		EbWa6IUtKtb2gY0PGGHx9OTnm2c=
 		</data>
 		<key>Ionicons.ttf</key>
 		<data>
@@ -71,6 +100,26 @@
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>PlugIns/FirstAppReactTests.xctest.dSYM/Contents/Info.plist</key>
+		<data>
+		Ip5Li+j+sintf+/Wci+HWdpcMY8=
+		</data>
+		<key>PlugIns/FirstAppReactTests.xctest.dSYM/Contents/Resources/DWARF/FirstAppReactTests</key>
+		<data>
+		M0Paz+aChw+kYRy21thBP3h6Iag=
+		</data>
+		<key>PlugIns/FirstAppReactTests.xctest/FirstAppReactTests</key>
+		<data>
+		Om/Yym5PPxXnYnjmw+xiuDxvPJ0=
+		</data>
+		<key>PlugIns/FirstAppReactTests.xctest/Info.plist</key>
+		<data>
+		5E0QSVhb1z9Q3SCRngPkQAB9Q1M=
+		</data>
+		<key>PlugIns/FirstAppReactTests.xctest/_CodeSignature/CodeResources</key>
+		<data>
+		fgtlO31m2SzkpVViMkLGWQioVfY=
 		</data>
 		<key>SimpleLineIcons.ttf</key>
 		<data>
@@ -98,11 +147,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NKldsiNrFMTqDbJF87cnpE7S0K4=
+			bYBLq6M9T59TQyfUSEmiaw3U5sQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			pZavoGYUAtH4TMERF37B3a0+5qGKTNXk3qE4kGq/qBw=
+			P0aTplg0BUAFv1jianJy/XpTA4/MDPPqbs1XT7zaSr4=
 			</data>
 		</dict>
 		<key>Entypo.ttf</key>
@@ -204,6 +253,74 @@
 			fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal+JM+Y=
 			</data>
 		</dict>
+		<key>Frameworks/XCTest.framework/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DQ4GPJ7FuM6H+FaCC/2wxhPSGCQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			VfVpYXVjG5OK2j8J39CP2mIMg1P5eFaYkRIJ/Hb2RSQ=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/XCTest</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HK6asLJ70IK7E4e83e8R1gxACHo=
+			</data>
+			<key>hash2</key>
+			<data>
+			olgg9NXiZ2M1ifvjBR8uTJxtXlM5EacLdDrNxfmImoY=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/8LQToTPOL9FsEsYDaACQ21Day0=
+			</data>
+			<key>hash2</key>
+			<data>
+			C7sJpbu4qpi8/rH5JYpdQYncotP69JQ9Fiu8jrHXYvU=
+			</data>
+		</dict>
+		<key>Frameworks/XCTest.framework/en.lproj/InfoPlist.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TuBj57ZP6zBqcL9HttO2Rucaw9E=
+			</data>
+			<key>hash2</key>
+			<data>
+			89RGkjZaKuewYnjpzwhIswhqfrU8+pcEXqM/DHVrUmo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/XCTest.framework/version.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			P6P66kW7+LvLIo4WHjXGltpT8CA=
+			</data>
+			<key>hash2</key>
+			<data>
+			2BV684CZjHtMZHxSiwC5qc/DGXv9WIOWUc9dEU/Q1pw=
+			</data>
+		</dict>
+		<key>Frameworks/libXCTestBundleInject.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xKX69bDGMJa2TcU/BC9ypZ06rsI=
+			</data>
+			<key>hash2</key>
+			<data>
+			jJ/zKe1SwWk9KkZ4MXV01NPW4QiHpU1aZhpfTDknkp0=
+			</data>
+		</dict>
 		<key>Ionicons.ttf</key>
 		<dict>
 			<key>hash</key>
@@ -246,6 +363,61 @@
 			<key>hash2</key>
 			<data>
 			ua3cE7d8ZyDNSM0Y8PSoyuWJsbkQNjDCSd5gq3Lf1r4=
+			</data>
+		</dict>
+		<key>PlugIns/FirstAppReactTests.xctest.dSYM/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ip5Li+j+sintf+/Wci+HWdpcMY8=
+			</data>
+			<key>hash2</key>
+			<data>
+			+5O2AVHAG0PoIH8OenZS5y74df7fCRKTrSE8WxW69io=
+			</data>
+		</dict>
+		<key>PlugIns/FirstAppReactTests.xctest.dSYM/Contents/Resources/DWARF/FirstAppReactTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M0Paz+aChw+kYRy21thBP3h6Iag=
+			</data>
+			<key>hash2</key>
+			<data>
+			tJ0zdFa0uYZ71KFEo07LhHZypCWQEUWNaijyvfepBlU=
+			</data>
+		</dict>
+		<key>PlugIns/FirstAppReactTests.xctest/FirstAppReactTests</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Om/Yym5PPxXnYnjmw+xiuDxvPJ0=
+			</data>
+			<key>hash2</key>
+			<data>
+			XmS8VnWSgIA+R6YAjmvkuRqP1bM8zK0pioN9Jc9Ci+M=
+			</data>
+		</dict>
+		<key>PlugIns/FirstAppReactTests.xctest/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5E0QSVhb1z9Q3SCRngPkQAB9Q1M=
+			</data>
+			<key>hash2</key>
+			<data>
+			vmWCSwWrrCCha8hnO2KL7qWXJbeakZjeEpQHZFDdqP0=
+			</data>
+		</dict>
+		<key>PlugIns/FirstAppReactTests.xctest/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fgtlO31m2SzkpVViMkLGWQioVfY=
+			</data>
+			<key>hash2</key>
+			<data>
+			+mUviit5+iCLI+OKNt7u2YSX6tcc/ChCJZQNn5V/Rao=
 			</data>
 		</dict>
 		<key>SimpleLineIcons.ttf</key>

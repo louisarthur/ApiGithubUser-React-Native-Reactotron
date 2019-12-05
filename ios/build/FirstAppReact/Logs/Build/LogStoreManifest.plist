@@ -5,6 +5,65 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>777A3868-EC6E-45E3-9C3B-C2DAF78FEAF0</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>777A3868-EC6E-45E3-9C3B-C2DAF78FEAF0.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirstAppReact project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirstAppReact</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace FirstAppReact with scheme FirstAppReact and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>597250193.26563895</real>
+			<key>timeStoppedRecording</key>
+			<real>597250194.65778506</real>
+			<key>title</key>
+			<string>Building workspace FirstAppReact with scheme FirstAppReact and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>777A3868-EC6E-45E3-9C3B-C2DAF78FEAF0</string>
+		</dict>
+		<key>94D9C47D-BBEC-4655-92CC-5A3CC63B7B0D</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>94D9C47D-BBEC-4655-92CC-5A3CC63B7B0D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirstAppReact project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirstAppReact</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace FirstAppReact with scheme FirstAppReact and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>597251539.09698105</real>
+			<key>timeStoppedRecording</key>
+			<real>597251545.22888398</real>
+			<key>title</key>
+			<string>Building workspace FirstAppReact with scheme FirstAppReact and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>94D9C47D-BBEC-4655-92CC-5A3CC63B7B0D</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
