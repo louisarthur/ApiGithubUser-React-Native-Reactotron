@@ -1,0 +1,4 @@
+#Thu Dec 05 13:50:57 BRT 2019
+base.0=/Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

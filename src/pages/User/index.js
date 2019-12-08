@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 // utilizei o snippet RNFC - REACT NATIVE FUNCIONAL COMPONENT
-import { ActivityIndicator } from 'react-native';
 // import { Container } from './styles';
 import PropTypes from 'prop-types';
 import Api from '../../services/github';
@@ -16,13 +15,16 @@ import {
   OwnerAvatar,
   Title,
   Author,
+  Loading,
 } from './styles';
 // import { isTemplateElement } from '@babel/types';
 
 export default class Users extends Component {
   state = {
     stars: [],
-    loading: false,
+    page: 1,
+    refreshing: false,
+    loading: true,
   };
   static propTypes = {
     navigation: PropTypes.shape({
@@ -37,15 +39,46 @@ export default class Users extends Component {
       : navigation.getParam('user').login,
   });
   async componentDidMount() {
-    this.setState({ loading: true });
+    this.load();
+  }
+
+  load = async (page = 1) => {
+    // acima podemos perceber um parametro padrão.
+    // this.setState({ loading: true });
+    const { stars } = this.state;
     const { navigation } = this.props;
     const user = navigation.getParam('user').login;
+    const response = await Api.get(`/users/${user}/repos`, {
+      params: { page },
+    });
 
-    const response = await Api.get(`/users/${user}/starred`);
-    this.setState({ stars: response.data, loading: false });
-  }
+    this.setState({
+      stars: page > 1 ? [...stars, ...response.data] : response.data,
+      loading: false,
+      page,
+      refreshing: false,
+    });
+  };
+
+  loadMore = () => {
+    const { page } = this.state;
+    const proxPage = page + 1;
+    this.load(proxPage);
+  };
+
+  refreshPartial = () => {
+    this.setState({ refreshing: true, stars: [] }, this.load);
+  };
+
+  handleNavigate = repository => {
+    const { navigation } = this.props;
+
+    navigation.navigate('Repositories', { repository });
+    console.tron.log(navigation);
+  };
+
   render() {
-    const { stars, loading } = this.state;
+    const { stars, loading, refreshing } = this.state;
     const { navigation } = this.props;
     const user = navigation.getParam('user');
     return (
@@ -55,24 +88,27 @@ export default class Users extends Component {
           <Name>{user.name}</Name>
           <Bio>{user.bio}</Bio>
         </Header>
-
-        <Repos
-          data={stars}
-          keyExtractor={star => String(star.id)}
-          renderItem={({ item }) => (
-            <Repository>
-              <OwnerAvatar source={{ uri: item.owner.avatar_url }} />
-              {loading ? (
-                <ActivityIndicator color="#eeee" />
-              ) : (
+        {loading ? (
+          <Loading />
+        ) : (
+          <Repos
+            data={stars}
+            keyExtractor={star => String(star.id)}
+            onRefresh={this.refreshPartial}
+            refreshing={refreshing}
+            onEndReachedThreshold={0.2}
+            onEndReached={this.loadMore}
+            renderItem={({ item }) => (
+              <Repository onPress={() => this.handleNavigate(item)}>
+                <OwnerAvatar source={{ uri: item.owner.avatar_url }} />
                 <Info>
                   <Title>{item.name}</Title>
                   <Author>{item.owner.login}</Author>
                 </Info>
-              )}
-            </Repository>
-          )}
-        />
+              </Repository>
+            )}
+          />
+        )}
       </Container>
     );
   }

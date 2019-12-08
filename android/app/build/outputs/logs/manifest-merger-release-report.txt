@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_async-storage] /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/0fcb1f0ea5d6b3edc6a9e2f9250ca8ba/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/35f9099e67a38b8b2c103778c4f835a2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/a1b05a2efa625d5499cd6bf864155445/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/cf28a50a421b639505a0a9750be45f4f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/6087e6ddd05a178f9b02e9e9c647e8d4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/6a8a888192a177636b1920751ef36417/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/214ba072fe9e43eabf5842c8973e0591/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/bfd4bb18f41a011e2abfa829dd7d6561/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/a230af593111044929daca9717e1c6f4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/d472b131fbaa90e4a6d06e212a5c0efe/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/d7f74536d2dfceb507dad545d5c4cf12/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/172c66fc38f9e579c229a963f3d2b63a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/262132ad61f6019e7ce2368bc3016527/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/ea474af06fd15ab7ed311a4cb9f6646d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/0168d8a3378a524cae2c5755bd67489c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/9675c2621d36439efbbd3d6e64cd80f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/8799a52e01e192a84f98ffd8b95fba02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/4e3e480140a22e78a74d30afa494c532/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/e3dda79ec2e318d123d3090cc4e2aa2e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/05a7bc40d4588a55238103ea9c003c4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/790f72c84a2c1def9e6528146f498e2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/fc20a7ced4c6e85e4a6cfc8a970f3f91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/13bd6c7a083cae20607d6cac06af9bb5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/48b8291db0e851abd87e2f57324e3bdf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/ee5206ba5579e92ffc36822373a28dc9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/b7231b00be9e6a43d8250d3dee4affbe/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/ed23f3137deeffe86b286796f99e73ff/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/037ce72caf73282ef6348a4da59cb6a1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/5097bd4f67db63cdd034a5d2bcca5536/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/fb8e521c96e355244db6902b6c466b72/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/2431e33ebe43b057132b12f6f1774396/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/a786e299cf3032399b4d4073d066f1e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/5a280d9b0e4929d68ec9a698db658b7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/74588d6111032f1cea0840e482463f30/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/2691e5c5bd213ba632338b4a3abd4752/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/2d509ce888ea4b680b58e127ec61060d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/efa77c13385f68c42706220cd1f2a48f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/a6f7873e91482c2d59ada05f4767279f/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/0fcb1f0ea5d6b3edc6a9e2f9250ca8ba/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/0fcb1f0ea5d6b3edc6a9e2f9250ca8ba/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/d7f74536d2dfceb507dad545d5c4cf12/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/d7f74536d2dfceb507dad545d5c4cf12/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/b7231b00be9e6a43d8250d3dee4affbe/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/b7231b00be9e6a43d8250d3dee4affbe/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/ed23f3137deeffe86b286796f99e73ff/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/ed23f3137deeffe86b286796f99e73ff/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/b7231b00be9e6a43d8250d3dee4affbe/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.firstappreact.MainActivity
+ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_async-storage] /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/0fcb1f0ea5d6b3edc6a9e2f9250ca8ba/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/0fcb1f0ea5d6b3edc6a9e2f9250ca8ba/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/35f9099e67a38b8b2c103778c4f835a2/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/35f9099e67a38b8b2c103778c4f835a2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/a1b05a2efa625d5499cd6bf864155445/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/a1b05a2efa625d5499cd6bf864155445/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/cf28a50a421b639505a0a9750be45f4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/cf28a50a421b639505a0a9750be45f4f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/6087e6ddd05a178f9b02e9e9c647e8d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/6087e6ddd05a178f9b02e9e9c647e8d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/6a8a888192a177636b1920751ef36417/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/6a8a888192a177636b1920751ef36417/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/214ba072fe9e43eabf5842c8973e0591/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/214ba072fe9e43eabf5842c8973e0591/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/bfd4bb18f41a011e2abfa829dd7d6561/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/bfd4bb18f41a011e2abfa829dd7d6561/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/a230af593111044929daca9717e1c6f4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/a230af593111044929daca9717e1c6f4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/d472b131fbaa90e4a6d06e212a5c0efe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/d472b131fbaa90e4a6d06e212a5c0efe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/d7f74536d2dfceb507dad545d5c4cf12/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/d7f74536d2dfceb507dad545d5c4cf12/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/172c66fc38f9e579c229a963f3d2b63a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/172c66fc38f9e579c229a963f3d2b63a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/262132ad61f6019e7ce2368bc3016527/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/262132ad61f6019e7ce2368bc3016527/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/ea474af06fd15ab7ed311a4cb9f6646d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/ea474af06fd15ab7ed311a4cb9f6646d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/0168d8a3378a524cae2c5755bd67489c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/0168d8a3378a524cae2c5755bd67489c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/9675c2621d36439efbbd3d6e64cd80f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/9675c2621d36439efbbd3d6e64cd80f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/8799a52e01e192a84f98ffd8b95fba02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/8799a52e01e192a84f98ffd8b95fba02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/4e3e480140a22e78a74d30afa494c532/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/4e3e480140a22e78a74d30afa494c532/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/e3dda79ec2e318d123d3090cc4e2aa2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/e3dda79ec2e318d123d3090cc4e2aa2e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/05a7bc40d4588a55238103ea9c003c4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/05a7bc40d4588a55238103ea9c003c4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/790f72c84a2c1def9e6528146f498e2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/790f72c84a2c1def9e6528146f498e2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/fc20a7ced4c6e85e4a6cfc8a970f3f91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/fc20a7ced4c6e85e4a6cfc8a970f3f91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/13bd6c7a083cae20607d6cac06af9bb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/13bd6c7a083cae20607d6cac06af9bb5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/48b8291db0e851abd87e2f57324e3bdf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/48b8291db0e851abd87e2f57324e3bdf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/ee5206ba5579e92ffc36822373a28dc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/ee5206ba5579e92ffc36822373a28dc9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/b7231b00be9e6a43d8250d3dee4affbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/b7231b00be9e6a43d8250d3dee4affbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/ed23f3137deeffe86b286796f99e73ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/ed23f3137deeffe86b286796f99e73ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/037ce72caf73282ef6348a4da59cb6a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/037ce72caf73282ef6348a4da59cb6a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/5097bd4f67db63cdd034a5d2bcca5536/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/5097bd4f67db63cdd034a5d2bcca5536/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/fb8e521c96e355244db6902b6c466b72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/fb8e521c96e355244db6902b6c466b72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/2431e33ebe43b057132b12f6f1774396/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/2431e33ebe43b057132b12f6f1774396/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/a786e299cf3032399b4d4073d066f1e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/a786e299cf3032399b4d4073d066f1e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/5a280d9b0e4929d68ec9a698db658b7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/5a280d9b0e4929d68ec9a698db658b7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/74588d6111032f1cea0840e482463f30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/74588d6111032f1cea0840e482463f30/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/2691e5c5bd213ba632338b4a3abd4752/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/2691e5c5bd213ba632338b4a3abd4752/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/2d509ce888ea4b680b58e127ec61060d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/2d509ce888ea4b680b58e127ec61060d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/efa77c13385f68c42706220cd1f2a48f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/efa77c13385f68c42706220cd1f2a48f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/a6f7873e91482c2d59ada05f4767279f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/louiseivani/.gradle/caches/transforms-2/files-2.1/a6f7873e91482c2d59ada05f4767279f/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/louiseivani/Documents/JavaScript/React-Native/FirstAppReact/ApiGithubUser-React-Native-Reactotron/android/app/src/main/AndroidManifest.xml

@@ -1,4 +1,5 @@
 import styled from 'styled-components/native';
+import { BaseButton, RectButton } from 'react-native-gesture-handler';
 
 export const Container = styled.View`
   background: #ffff;
@@ -41,15 +42,15 @@ export const Repos = styled.FlatList.attrs({
   margin-top: 20px;
 `;
 
-export const Repository = styled.View`
+export const Repository = styled(RectButton)`
   background: #f5f5f5;
   border-radius: 4px;
   padding: 10px 15px;
   margin-bottom: 20px;
   flex-direction: row;
   align-items: center;
-  border-left-width: 6px;
-  border-left-color: #f21333;
+  border-left-width: 6px !important;
+  border-color: #f21333;
 `;
 
 export const Info = styled.View`
@@ -76,4 +77,13 @@ export const Author = styled.Text`
   margin-top: 3px;
   font-size: 12px;
   color: #777;
+`;
+export const Loading = styled.ActivityIndicator.attrs({
+  color: '#f21333',
+  size: 100,
+})`
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
 `;

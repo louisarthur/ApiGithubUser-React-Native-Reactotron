@@ -9,6 +9,7 @@ import { createAppContainer } from 'react-navigation';
 import { createStackNavigator } from 'react-navigation-stack';
 import Main from './pages/Main';
 import User from './pages/User';
+import Repositories from './pages/Repositories';
 
 // o create App container é similar o browser router
 // o createstacknavigator é um tipo de configuração de rota, ele
@@ -18,6 +19,7 @@ const Routes = createAppContainer(
     {
       Main,
       User,
+      Repositories,
     },
     {
       // em android o default disso abaixo é left
